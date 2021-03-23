@@ -1,2 +1,0 @@
-(this["webpackJsonpkeeper-project"]=this["webpackJsonpkeeper-project"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);n(0);var r=n(3),c=n.n(r),o=(n(8),n(1));var s=function(){return Object(o.jsx)("h1",{className:"heading",children:"Hello World!"})};c.a.render(Object(o.jsx)(s,{}),document.getElementById("root"))},8:function(e,t,n){}},[[10,1,2]]]);
-//# sourceMappingURL=main.71da35af.chunk.js.map
